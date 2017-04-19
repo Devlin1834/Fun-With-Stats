@@ -1,0 +1,13 @@
+Job,Shift,Count
+Cashier,Open,5
+Cashier,Mid,2
+Cashier,Close,3
+Cook,Open,4
+Cook,Mid,1
+Cook,Close,0
+Stocker,Open,4
+Stocker,Mid,1
+Stocker,Close,0
+Captain,Open,3
+Captain,Mid,0
+Captain,Close,1

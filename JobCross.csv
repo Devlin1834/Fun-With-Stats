@@ -1,0 +1,13 @@
+Job,Cross.Train,Count
+cashier,stocker,8
+cashier,busser,4
+cashier,line.cook,11
+stocker,cashier,1
+stocker,busser,1
+stocker,line.cook,5
+busser,cashier,1
+busser,stocker,1
+busser,line.cook,3
+line.cook,cashier,3
+line.cook,stocker,9
+line.cook,busser,0
